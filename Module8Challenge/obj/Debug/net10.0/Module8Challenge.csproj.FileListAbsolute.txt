@@ -1,0 +1,15 @@
+/workspaces/CSharp-Module8Challenge/Module8Challenge/bin/Debug/net10.0/Module8Challenge
+/workspaces/CSharp-Module8Challenge/Module8Challenge/bin/Debug/net10.0/Module8Challenge.deps.json
+/workspaces/CSharp-Module8Challenge/Module8Challenge/bin/Debug/net10.0/Module8Challenge.runtimeconfig.json
+/workspaces/CSharp-Module8Challenge/Module8Challenge/bin/Debug/net10.0/Module8Challenge.dll
+/workspaces/CSharp-Module8Challenge/Module8Challenge/bin/Debug/net10.0/Module8Challenge.pdb
+/workspaces/CSharp-Module8Challenge/Module8Challenge/obj/Debug/net10.0/Module8Challenge.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CSharp-Module8Challenge/Module8Challenge/obj/Debug/net10.0/Module8Challenge.AssemblyInfoInputs.cache
+/workspaces/CSharp-Module8Challenge/Module8Challenge/obj/Debug/net10.0/Module8Challenge.AssemblyInfo.cs
+/workspaces/CSharp-Module8Challenge/Module8Challenge/obj/Debug/net10.0/Module8Challenge.csproj.CoreCompileInputs.cache
+/workspaces/CSharp-Module8Challenge/Module8Challenge/obj/Debug/net10.0/Module8Challenge.sourcelink.json
+/workspaces/CSharp-Module8Challenge/Module8Challenge/obj/Debug/net10.0/Module8Challenge.dll
+/workspaces/CSharp-Module8Challenge/Module8Challenge/obj/Debug/net10.0/refint/Module8Challenge.dll
+/workspaces/CSharp-Module8Challenge/Module8Challenge/obj/Debug/net10.0/Module8Challenge.pdb
+/workspaces/CSharp-Module8Challenge/Module8Challenge/obj/Debug/net10.0/Module8Challenge.genruntimeconfig.cache
+/workspaces/CSharp-Module8Challenge/Module8Challenge/obj/Debug/net10.0/ref/Module8Challenge.dll
